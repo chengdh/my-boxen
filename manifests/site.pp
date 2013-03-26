@@ -89,11 +89,15 @@ node default {
   include yadr
   include pkgconfig
   #include dropbox
-  #include tmux
+  include tmux
   include autojump
   include wget
   include things
   include github
+  include spotify
+  include sparrow
+  include flux
+
 
   # common, useful packages
   package {
