@@ -72,6 +72,29 @@ node default {
   include ruby::1-9-2
   include ruby::1-9-3
 
+  #my special app
+  include macvim
+  include gitx
+  include mysql
+  include mysql_workbench
+  include postgresql
+  include screen
+  include python
+  include chrome
+  include zsh
+  include iterm2::stable
+  include imagemagick
+  include cyberduck
+  include alfred
+  include yadr
+  include pkgconfig
+  #include dropbox
+  #include tmux
+  include autojump
+  include wget
+  include things
+  include github
+
   # common, useful packages
   package {
     [

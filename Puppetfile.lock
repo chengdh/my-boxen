@@ -1,7 +1,27 @@
 GITHUBTARBALL
+  remote: boxen/puppet-alfred
+  specs:
+    alfred (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-autojump
+  specs:
+    autojump (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-cyberduck
+  specs:
+    cyberduck (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
@@ -19,6 +39,11 @@ GITHUBTARBALL
     git (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-gitx
+  specs:
+    gitx (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.0.0)
@@ -27,6 +52,26 @@ GITHUBTARBALL
   remote: boxen/puppet-hub
   specs:
     hub (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-imagemagick
+  specs:
+    imagemagick (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mysql
+  specs:
+    mysql (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-nginx
@@ -44,9 +89,34 @@ GITHUBTARBALL
     nvm (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pkgconfig
+  specs:
+    pkgconfig (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-postgresql
+  specs:
+    postgresql (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-python
+  specs:
+    python (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
     ruby (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-screen
+  specs:
+    screen (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -54,9 +124,49 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-things
+  specs:
+    things (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
+GITHUBTARBALL
+  remote: cdburgess/puppet-mysql_workbench
+  specs:
+    mysql_workbench (1.0.0)
+
+GITHUBTARBALL
+  remote: chengdh/boxen-yadr
+  specs:
+    yadr (0.0.4)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
+
+GITHUBTARBALL
+  remote: pulse00/puppet-github
+  specs:
+    github (1.0.0)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
@@ -64,17 +174,39 @@ GITHUBTARBALL
     stdlib (3.0.0)
 
 DEPENDENCIES
+  alfred (= 1.0.0)
+  autojump (= 1.0.0)
   boxen (= 1.0.2)
+  chrome (= 1.0.0)
+  cyberduck (= 1.0.0)
   dnsmasq (= 1.0.0)
   gcc (= 1.0.0)
   git (= 1.0.0)
+  github (= 1.0.0)
+  gitx (= 1.0.0)
   homebrew (= 1.0.0)
   hub (= 1.0.0)
+  imagemagick (= 1.0.0)
   inifile (= 0.9.0)
+  iterm2 (= 1.0.0)
+  macvim (= 1.0.0)
+  mysql (= 1.0.0)
+  mysql_workbench (= 1.0.0)
   nginx (= 1.0.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
+  osx (= 1.0.0)
+  pkgconfig (= 1.0.0)
+  postgresql (= 1.0.0)
+  python (= 1.0.0)
   ruby (= 1.0.0)
+  screen (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  sysctl (= 1.0.0)
+  things (= 1.0.0)
+  wget (= 1.0.0)
+  xquartz (= 1.0.0)
+  yadr (= 0.0.4)
+  zsh (= 1.0.0)
 
