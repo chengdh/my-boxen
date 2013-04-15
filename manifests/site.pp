@@ -97,7 +97,7 @@ node default {
   include spotify
   include sparrow
   include flux
-
+  include daisy_disk
 
   # common, useful packages
   package {
