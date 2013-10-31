@@ -201,7 +201,7 @@ GITHUBTARBALL
 DEPENDENCIES
   alfred (= 1.0.0)
   autojump (= 1.0.0)
-  boxen (= 1.0.2)
+  boxen (= 3.3.3)
   chrome (= 1.0.0)
   cyberduck (= 1.0.0)
   daisy_disk (= 1.0.0)
